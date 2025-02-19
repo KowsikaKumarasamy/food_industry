@@ -1,0 +1,1 @@
+This repository contains data analysis and visualizations related to the food industry. It includes code for data processing, along with Tableau and Power BI dashboards designed to provide insights into key metrics like sales trends, and customer preferences.
